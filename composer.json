@@ -1,0 +1,17 @@
+{
+    "name": "oyatel/amazon-s3-php-class",
+    "description": "A standalone Amazon S3 (REST) client for PHP 5.2.x using CURL that does not require PEAR",
+    "authors": [
+        {
+		"name": "Even Andre Fiskvik",
+		"email": "eaf@oyatel.com"
+        },
+	{
+		"name": "Donovan Schönknecht"
+	}
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["./"]
+    }
+}
